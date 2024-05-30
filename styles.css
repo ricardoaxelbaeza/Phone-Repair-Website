@@ -216,6 +216,12 @@ background-color:#ffcc00;
 
 }
 
+#alert{
+  margin-top:30px;
+  text-align:center;
+  font-size:10px;
+}
+
 
 
 
@@ -273,7 +279,7 @@ ul{
   display:block;
   margin:auto;
   gap:20px;
-  margin-top:80px;
+  margin-top:40px;
   margin-bottom:20px;
   height:600px;
 }
@@ -284,8 +290,15 @@ ul{
   text-align:center;
 }
   
+#alert{
+  margin:auto;
+  margin-top:30px;
+  width:400px;
+}
 
 }
+
+
 
 
 
