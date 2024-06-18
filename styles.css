@@ -186,6 +186,18 @@ background-color:#ffcc00;
   font-size:10px;
 }
 
+.baeza-signature{
+  margin-top:20px;
+  font-family:"Jersey 10",sans-serif;
+  font-size: 30px;
+  color:grey;
+}
+
+.signature-txt{
+  font-size: 10px;
+  font-family:sans-serif;
+  color:grey;
+}
 
 
 
@@ -251,6 +263,7 @@ ul{
   margin-top:30px;
   width:400px;
 }
+  
 
 }
 
