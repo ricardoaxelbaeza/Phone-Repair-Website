@@ -191,12 +191,14 @@ background-color:#ffcc00;
   font-family:"Jersey 10",sans-serif;
   font-size: 30px;
   color:grey;
+  text-align: center;
 }
 
 .signature-txt{
   font-size: 10px;
   font-family:sans-serif;
   color:grey;
+  text-align: center;
 }
 
 
